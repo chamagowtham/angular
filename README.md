@@ -1,6 +1,9 @@
 # Project Title
 Angular JS (Version: 1.X) + Bootstrap + Devexpress + Node js server quick start application.
 
+## Build and Development tech stack
+Gulp and Bower
+
 ## Getting Started
 This web application will help you to quick start your application development. It uses Angular JS (1.X), Node server, Devexpress, Bootstrap, Jquery and other javascript frameworks. I have also followed all the coding standards and architectural aspects of enterprise web app development for building this web application.
 
