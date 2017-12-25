@@ -29,7 +29,8 @@ Application will be available at the following URL
 http://localhost:3000/
 
 ## Built With
-I have used creative-tim free bootstrap admin paper dashboard for building this application. I modified the index.html file and included new templates and controllers for news page.
+I have used Yeoman webapp generator,creative-tim free bootstrap admin paper dashboard for building this application. I modified the index.html file and included new templates and controllers for news page.
+* [Yeoman-Generator-Webapp](https://github.com/yeoman/generator-webapp)
 * [creative-tim](https://www.creative-tim.com/product/paper-dashboard) - HTML + Bootstrap
 * [Devexpress](https://js.devexpress.com/) - Data grid/HTML widgets
 
